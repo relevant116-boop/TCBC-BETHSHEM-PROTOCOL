@@ -1,0 +1,8 @@
+{
+  "name": "TCBC Bethshem Protocol & Ushering App",
+  "description": "A comprehensive ministry management tool for TCBC Bethshem, featuring gallery management, daily trivia, scripture engagement, and protocol tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
